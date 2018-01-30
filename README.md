@@ -1,1 +1,2 @@
 # giahoang
+Chao moi nguoi.
